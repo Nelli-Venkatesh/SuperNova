@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>SuperNova</id>
+    <version>3.0.6</version>
+    <title>SuperNova</title>
+    <authors>Nelli Venkatesh</authors>
+    <owners>Nelli Venkatesh</owners>
+  	<license type="file">license.txt</license>
+	<icon>icon.png</icon>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>Super Nova is utility library can be used for multi purpose for captcha and mail sending and lot more</description>
+    <releaseNotes>This version contains captcha implementation using local database</releaseNotes>
+    <copyright>Copyright 2019</copyright>
+    <tags>Captcha Email</tags>
+  </metadata>
+  <files>
+      <file src="license.txt" target="" />
+	   <file src="icon.png" target="" />
+  </files>
+</package>
